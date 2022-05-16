@@ -71,5 +71,15 @@ public String getImage() {
 public void setImage(String image) {
 	this.image = image;
 }
+
+public Long getMovieId() {
+	// TODO Auto-generated method stub
+	return null;
+}
+
+public String getEmail() {
+	// TODO Auto-generated method stub
+	return null;
+}
   
 }
